@@ -1,4 +1,5 @@
-#  Python Django School Management API
+#  Python Django HRM API
+
 
 DRF, MVVM, Contact API, Department API, Employee API, Back-End Development, User login, Registration, user role, end-point security implementation with language Python, Django Framework, Django RESTFramework, SQLLITE....
 
